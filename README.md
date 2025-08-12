@@ -1,6 +1,6 @@
-🔐 Password Strength Evaluation – Make Your Passwords Unbreakable!
+🔐 PASSWORD STRENGTH EVALUATION - MAKE YOUR PASSWORDS UNBREAKABLE! 
 
-📌 Overview
+📌 OVERVIEW
 
 In today’s digital world, passwords are the first line of defense 🔰 against hackers.
 
@@ -14,9 +14,9 @@ Learn what makes a password strong 💪
 
 Understand how hackers crack weak passwords 🕵️‍♂️
 
-🛠️ Steps Performed
+🛠️ STEPS PERFORMED
 
-1️⃣ Created Multiple Passwords
+1️⃣ CREATED A MULTIPLE PASSWORDS
 
 From very weak to extremely strong
 
@@ -24,19 +24,19 @@ Mixed uppercase, lowercase, numbers, and symbols 🔤🔢💥
 
 Varied lengths from short (6 chars) to long (16+ chars)
 
-2️⃣ Tested Passwords
+2️⃣ TESTED PASSWORDS
 
 Used the Bitwarden Password Strength Checker 💻
 
 Recorded scores & feedback 📊
 
-3️⃣ Documented Results
+3️⃣ DOCUMENTED RESULTS
 
 Captured screenshots 📸
 
 Created an explanation PDF 📄 with visuals and tips
 
-4️⃣ Researched Password Attacks
+4️⃣ RESEARCHED PASSWORD ATTACKS
 
 Brute Force Attack ⚒️ → Guessing every possible combination
 
@@ -44,7 +44,7 @@ Dictionary Attack 📚 → Using a list of common passwords
 
 Credential Stuffing 🗂️ → Using stolen credentials from leaks
 
-📊 Findings & Best Practices
+📊 FINDINGS & BEST PRACTICES
 
 ✅ Use at least 12–16 characters
 
@@ -56,18 +56,19 @@ Credential Stuffing 🗂️ → Using stolen credentials from leaks
 
 ✅ Use a password manager 🗝️ to store complex passwords
 
-💡 Pro Tip: The longer & more random your password, the harder it is to crack 🔒
+💡 PRO TIP: The longer & more random your password, the harder it is to crack 🔒
 
-📂 Project Files
+📂 PROJECT FILES
 
 📄 password_strength_evaluation.pdf → Detailed explanation + screenshots
+
 🖼️ Good password.jpg → Example of a good password
 
 🖼️ Strong password.jpg → Example of a strong password
 
 🖼️ Very weak password.jpg → Example of a weak password
 
-🎯 Conclusion
+🎯 CONCLUSION
 
 Strong passwords are like strong locks 🔒 — the stronger they are, the harder it is for anyone to break in.
 This project not only teaches how to create strong passwords, but also why it’s important in protecting our digital life. 🌐✨
